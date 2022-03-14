@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-base"
+name = "d-tree"
 version = "0.1.0"
 description = ""
 authors = ["Doc Drew <docdrew@umich.edu>"]
